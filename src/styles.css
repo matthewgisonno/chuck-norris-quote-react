@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.categoryContainer {
+  width: 300px;
+  margin: 0 auto;
+}
+.floatL {
+  float: left;
+}
+.floatR {
+  float: right;
+}
+.m-r-10 {
+  margin-right: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+div {
+  text-align: left;
+}
