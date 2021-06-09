@@ -1,2 +1,6 @@
 # chuck-norris-quote-react
-Created with CodeSandbox
+Utilizes a free check norris random quote generator
+
+API Located here:
+https://api.chucknorris.io/
+
